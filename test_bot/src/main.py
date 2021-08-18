@@ -3,4 +3,9 @@ import config
 
 
 def main():
-    return 1
+
+    print('Ready!')
+
+    return 0
+
+main()

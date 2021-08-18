@@ -2,6 +2,8 @@
 
 echo 'Setting up project dependencies'
 
+sudo apt-get install libffi-dev
+
 echo 'Getting TA-lib source:'
 
 sudo wget -P /tmp http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz 
