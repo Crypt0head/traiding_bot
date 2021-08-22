@@ -11,8 +11,16 @@ This is a simple trading bot for general purpose
 
 **For Windows**
 
-    TBA
+    .\setup_windows.bat
 
-***HOW TO BUILD***
+***HOW TO RUN***
 
-    TBA
+Simply run main.py from *root* (traiding_bot) dir
+
+**For Linux**
+
+    python3 test_bot/src/main.py
+
+**For Windows**
+
+    python .\test_bot\src\main.py
