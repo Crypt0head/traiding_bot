@@ -26,5 +26,3 @@ def get_api_secret():
 
     else:
         return API_SECRET
-
-get_api_key()
